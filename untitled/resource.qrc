@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/pic/icon">
+        <file>icon/cursor.png</file>
+        <file>icon/hand.png</file>
+        <file>icon/open-file.png</file>
+        <file>icon/Save.png</file>
+        <file>icon/Save_As.png</file>
+        <file>icon/search.png</file>
+        <file>icon/Wise_Left.png</file>
+        <file>icon/Wise_Right.png</file>
+        <file>icon/zoom_in.png</file>
+        <file>icon/zoom_out.png</file>
+        <file>icon/pinpoint.png</file>
+        <file alias="file">icon/file.png</file>
+    </qresource>
+    <qresource prefix="/pic/main">
+        <file alias="main">icon/1203036.png</file>
+    </qresource>
+</RCC>
